@@ -1,0 +1,15 @@
+E:\GB_practise\Csharp_Final_Work\bin\Debug\net6.0\Csharp_Final_Work.exe
+E:\GB_practise\Csharp_Final_Work\bin\Debug\net6.0\Csharp_Final_Work.deps.json
+E:\GB_practise\Csharp_Final_Work\bin\Debug\net6.0\Csharp_Final_Work.runtimeconfig.json
+E:\GB_practise\Csharp_Final_Work\bin\Debug\net6.0\Csharp_Final_Work.dll
+E:\GB_practise\Csharp_Final_Work\bin\Debug\net6.0\Csharp_Final_Work.pdb
+E:\GB_practise\Csharp_Final_Work\obj\Debug\net6.0\Csharp_Final_Work.csproj.AssemblyReference.cache
+E:\GB_practise\Csharp_Final_Work\obj\Debug\net6.0\Csharp_Final_Work.GeneratedMSBuildEditorConfig.editorconfig
+E:\GB_practise\Csharp_Final_Work\obj\Debug\net6.0\Csharp_Final_Work.AssemblyInfoInputs.cache
+E:\GB_practise\Csharp_Final_Work\obj\Debug\net6.0\Csharp_Final_Work.AssemblyInfo.cs
+E:\GB_practise\Csharp_Final_Work\obj\Debug\net6.0\Csharp_Final_Work.csproj.CoreCompileInputs.cache
+E:\GB_practise\Csharp_Final_Work\obj\Debug\net6.0\Csharp_Final_Work.dll
+E:\GB_practise\Csharp_Final_Work\obj\Debug\net6.0\refint\Csharp_Final_Work.dll
+E:\GB_practise\Csharp_Final_Work\obj\Debug\net6.0\Csharp_Final_Work.pdb
+E:\GB_practise\Csharp_Final_Work\obj\Debug\net6.0\Csharp_Final_Work.genruntimeconfig.cache
+E:\GB_practise\Csharp_Final_Work\obj\Debug\net6.0\ref\Csharp_Final_Work.dll

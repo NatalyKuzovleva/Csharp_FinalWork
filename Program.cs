@@ -10,4 +10,20 @@
 
 /************************* М Е Т О Д Ы *************************/
 
+void PrintArray(string[] array)   // Вывод массива на печать в строку в формате [a1,a2,a3,a4,a5] 
+{
+    Console.Write("[");
+    for (int i = 0; i < array.Length; i++)
+    {
+        if (i < array.Length - 1) Console.Write(array[i] + ", ");
+        //if (i < array.Length - 1) Console.Write("\"" + array[i]  + "\", "); 
+        // на случай вывода каждого элемента массива в кавычках
+        else Console.Write(array[i]);
+        //else Console.Write("\"" + array[i] + "\"");
+    }
+    Console.WriteLine("]");
+}
+
 /***************************************************************/
+string[] arr = new string[] { "hello", "2", "world", ":-)" };
+PrintArray(arr);
